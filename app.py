@@ -91,7 +91,7 @@ st.write(
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas, Numpy, Langhchain), SQL.
 - 📊 Data Visulization: PowerBi, MS Excel, Plotly, Matplotlib, Seaborn.
 - 📚 Modeling: Large language models, Logistic & linear regression, decition trees.
-- 💻 Designing: HTML, CSS, Bootstrap, Stramlit.
+- 💻 Designing: HTML, CSS, Bootstrap, Streamlit.
 - 🗄️ Databases: MongoDB, MySQL.
 """
 )
